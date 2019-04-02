@@ -22,8 +22,6 @@ a:hover {
 }
 
 .login {
-	width: 500px;
-	height: 323px;
 	border: 2px solid #a1a1a1;
 	box-shadow: inset 0 0 5px #a1a1a1;
 	border-radius: 10px;
@@ -49,8 +47,6 @@ form {
 input [type="text"],
 input [type="password"] {
 	outline: none;
-	font-size: 20px;
-	width: 450px;
 	font-family: caption;
 	border: 4px double #dedee0;
 	padding: 5px;
@@ -67,10 +63,6 @@ input [type="password"]:focus {
 	outline: none;
 	color: #a1a1a1;
 	font-weight: bold;
-	font-size: 20;
-	width: 125px;
-	height: 50px;
-	margin: 45px 0 0 110px;
 	text-align: center;
 	border-radius: 25px;
 	background-color: #dedee0;
@@ -83,10 +75,6 @@ input [type="password"]:focus {
 	box-shadow: inset 0 0 5px #000;
 }
 
-.chk {
-	margin: 5% 0 0 0;
-}
-
 .rem {
 	margin: 5% 0 0 10px;
 	font-size: 12px;
@@ -95,10 +83,6 @@ input [type="password"]:focus {
 .forgot {
 	width: 100%;
 	font-size: 3em;
-}
-
-.forgot a {
-	margin: 0 0 0 35%;
 }
 
 /*----Size: 500x wide or larger*/
